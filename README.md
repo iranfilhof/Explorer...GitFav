@@ -1,10 +1,23 @@
+
 # GitFav
 
-![GitFav](https://user-images.githubusercontent.com/102687095/220416873-6248a939-29ea-4bbd-9722-c50bbe666e9b.png)
+GitFav é um projeto cujo tem o objetivo de favoritar os perfis do Github, em que o usuário mais visita.
 
+Adicionando um perfil no GitFav, é possível ver vários dados sobre o mesmo. Como: Nome completo do usuário, username, número de repositórios e número de seguidores.
+## Demonstração
 
-link do desafio: https://efficient-sloth-d85.notion.site/GitFav-f8ff1c18b23745c0b46cd8d61f74b596
-
-link do desafio no figma: https://www.figma.com/file/gcsdZZh3poR984mEKgkTwj/%5BDesafios-Explorer%5D-GitFav-(Copy)-(Copy)?node-id=0%3A1&t=XBD1ROFMLzNZlTux-0
+Clique na imagem abaixo para ver o video de demonstração da aplicação.
 
 [![Watch the video](https://i.imgur.com/TSq2tJ4.png)](https://i.imgur.com/DHqBB0W.mp4)
+## Funcionalidades
+
+- Adição de um perfil
+- Visualização de dados do perfil
+- Remoção do perfil
+
+
+## Stack utilizada
+
+**Front-end:** HTML, CSS e JavaScript
+
+
