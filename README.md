@@ -16,6 +16,14 @@ Clique na imagem abaixo para ver o video de demonstração da aplicação.
 - Remoção do perfil
 
 
+## Conhecimentos utilizados nesse projeto:
+
+- Programação Orientada a Objetos (POO)
+- Consumo de API's
+- Assincronismo
+- Banco de dados (localStorage)
+- Acessibilidade
+
 ## Stack utilizada
 
 **Front-end:** HTML, CSS e JavaScript
